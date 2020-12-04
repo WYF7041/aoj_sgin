@@ -16,7 +16,7 @@
 
 添加**NAME**为 **USER**、**PWD**、**sckey** 的变量，**value**分别为 **帐号**、**密码**、**sckey**
 ![1](https://s3.ax1x.com/2020/12/04/DHeah6.png)
-![2](https://s3.ax1x.com/2020/12/04/DHZIT1.png)
+![2](https://s3.ax1x.com/2020/12/04/DqpHqP.png)
 
 ### 三、启用 Action
 
@@ -28,7 +28,13 @@
 
 ### 四、查看结果
 
-> Actions --> 签到 --> build  
+- 按图操作  
+1.  
+![DqPlCD.png](https://s3.ax1x.com/2020/12/04/DqPlCD.png)
+2.  
+![DqiGJU.png](https://s3.ax1x.com/2020/12/04/DqiGJU.png)  
+
+> Actions --> aoj签到
 > 如果你的微信收到消息，就说明部署完成了
 
 ## 获取**sckey**
