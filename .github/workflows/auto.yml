@@ -1,10 +1,13 @@
 name: aoj签到
 on:
-    push:
-        branches:
-            - master
-    schedule:
-        - cron: '35 17 * * *'
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  schedule:
+    - cron: '52 16 * * *'
+  watch:
+    types: started
 
 jobs:
   build:
